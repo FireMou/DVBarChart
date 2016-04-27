@@ -80,7 +80,7 @@
     self.xBarView.index = self.index;
     [self.xBarView draw];
     
-    if (self.index < 0) {
+    if (self.index >= 0) {
         
         if (self.index * (self.barGap + self.barWidth) > self.scrollView.width * 0.5) {
             [self.scrollView setContentOffset:CGPointMake(self.index * (self.barGap + self.barWidth) - self.scrollView.width * 0.5, 0) animated:YES];
