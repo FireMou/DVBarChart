@@ -28,7 +28,7 @@
  */
 @property (strong, nonatomic) UIColor *textColor;
 /**
- *  x轴文字与坐标轴间隙
+ *  x轴文字与坐标轴间隙(The distance from x axis text to x axis line, default is 10)
  */
 @property (assign, nonatomic) CGFloat xAxisTextGap;
 /**
