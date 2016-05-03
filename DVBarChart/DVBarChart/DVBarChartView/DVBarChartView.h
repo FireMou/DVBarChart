@@ -56,7 +56,7 @@
  */
 @property (strong, nonatomic) UIColor *barSelectedColor;
 /**
- *  存放y轴数值的数组
+ *  存放y轴数值的数组(The data array used to display)
  */
 @property (strong, nonatomic) NSArray *xValues;
 
