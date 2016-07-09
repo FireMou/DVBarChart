@@ -1,7 +1,7 @@
 # DVBarChart
 A Simple BarChartView For Simple data statistics
 
-![img](http://d.pr/i/1fu2z+ "img")
+![img](http://d.pr/i/1awxO+ "img")
 
 简单描述
 ---------------------
